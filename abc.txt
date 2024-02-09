@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+    int a=23;
+    int b=2;
+    int c=9;
+    int d=33;
+    int e=a*b-c+d;
+    printf("%d\n",e);
+    return 0;
+}
